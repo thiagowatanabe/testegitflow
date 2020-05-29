@@ -6,7 +6,7 @@ namespace Teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("4.0.0");
+            Console.WriteLine("5.0.0");
         }
     }
 }
